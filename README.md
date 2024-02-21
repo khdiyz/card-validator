@@ -1,1 +1,1 @@
-# card-validator
+# Credit card validator with Golang
